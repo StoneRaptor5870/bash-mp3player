@@ -84,14 +84,14 @@ The player will:
 ## Controls
 
 ```
-| Key | Action                        |
-|-----|-------------------------------|
-| `SPACE` | Play/Pause current track  |
-| `n` | Next song                     |
-| `p` | Previous song                 |
-| `l` | List/refresh playlist display |
-| `s` | Stop playback                 |
-| `q` | Quit player                   |
+| Key     | Action                        |
+|---------|-------------------------------|
+| `SPACE` | Play/Pause current track      |
+| `n`     | Next song                     |
+| `p`     | Previous song                 |
+| `l`     | List/refresh playlist display |
+| `s`     | Stop playback                 |
+| `q`     | Quit player                   |
 ```
 
 ## File Structure
